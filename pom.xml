@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>dashboard</groupId>
+  <groupId>dashboard-app</groupId>
   <artifactId>lein-template</artifactId>
   <packaging>jar</packaging>
-  <version>0.0.1</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>lein-template</name>
-  <description>Created with lein-create-template</description>
-  <url>http://example.com/FIXME</url>
+  <description>Template for dashboard project</description>
+  <url>https://github.com/multunus/dashboard-clj/</url>
   <licenses>
     <license>
       <name>Eclipse Public License</name>
       <url>http://www.eclipse.org/legal/epl-v10.html</url>
     </license>
   </licenses>
+  <scm>
+    <tag>06d8c2bc66c65ea40c23a885ac432e4710f22cfe
+</tag>
+    <url/>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
