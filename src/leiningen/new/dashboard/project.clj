@@ -6,16 +6,8 @@
 
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "1.8.40" :scope "provided"]
-                 [ring "1.4.0"]
-                 [ring/ring-defaults "0.2.0"]
-                 [bk/ring-gzip "0.1.1"]
-                 [ring.middleware.logger "0.5.0"]
-                 [compojure "1.5.0"]
                  [environ "1.0.2"]
-                 [http-kit "2.1.19"]
-                 [lein-doo "0.1.6"]
                  [com.multunus/dashboard-clj "0.1.0-SNAPSHOT"]
-                 [org.clojars.mikejs/ring-gzip-middleware "0.1.0-SNAPSHOT"]
                  [cljsjs/highcharts "4.2.2-2"]
                  [cljsjs/jquery "1.11.3-0"]]
 
