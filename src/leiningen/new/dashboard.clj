@@ -21,4 +21,5 @@
              ["resources/log4j.properties" (render "resources/log4j.properties")]
              ["resources/public/css/style.css" (render "resources/css/style.css")]
              ["resources/public/images/grey_wash_wall.png" (render "resources/images/grey_wash_wall.png")]
+             ["README.md" (render "README.md" data)]
              )))
